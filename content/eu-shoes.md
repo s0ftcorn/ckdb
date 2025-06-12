@@ -1,0 +1,29 @@
+---
+title: European Shoemakers and Sellers
+---
+
+- https://fredericcishoes.com
+  - Historical/Reenactment
+- https://reck-schuhe.de/
+  - Bundeswehr Boots ca. 2000
+- https://www.schuhmacherei-ingridneumann.com
+  - Custom/Bespoke and Repairs
+- Astorflex Italien
+- Bright Shoemakers Dänemark
+- Green Boots Portugal
+- Lennertson Belgien
+- Sandmann Deutschland
+- Old Mulla ???
+- Skråmträsk Schweden 
+- Urban Shepherd Portugal
+- William Lennon & Co UK
+- Yanko Spanien
+- Stuf-f.com
+- Kustom Craft DE
+- Mayura Spanien
+- Floris Van Bommel NL
+- bootfactory Finnland
+- Lecortina Italien
+- Meetmin ES(CN)
+- Carmina ES
+- La Vita Shoes DE
