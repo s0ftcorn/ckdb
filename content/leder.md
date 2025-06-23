@@ -1,5 +1,6 @@
 ---
 title: Leder
+enableToc: true
 ---
 Empfehlung: https://www.lederpedia.de/  
 
@@ -36,3 +37,5 @@ Besonders stark gefettetes Leder. Besonders Wetterbeständig. Anfällig für Geb
 Subjektives Maß für "Stehvermögen". Als ob das Leder so weich oder eher hart ist.
 ### Griff
 Beschreibt wie sich das Leder in der Hand anfühlt. Eher wie Stroh, oder geschmeidig. 
+### Stärke
+Anderes Wort für die Dicke des Leders.
