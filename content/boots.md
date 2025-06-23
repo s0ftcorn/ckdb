@@ -9,7 +9,7 @@ Iconic. Classic gateway drug. More functional.
 - Offline Stores for try on.
 - Many Goodyear welted models (very gud repairability)
 - Very good leather (no vegan options)
-- Very good price/performance
+- Good price/performance
 Recommended models: Iron Ranger, Blacksmith
 
 ### Thursday
