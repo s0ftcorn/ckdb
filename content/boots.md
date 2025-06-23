@@ -31,4 +31,4 @@ Recommended models: Black Greasy 8 Eye Derby Boot
 Note: It seems like their quality is going downhill. Even more subjective view backed by some posts on reddit.
 
 ## Not happy until now?
-Either you want something special in terms of look or have other requirements for your boots, in which case: [[eu-shoes.md]]
+Either you want something special in terms of look or have other requirements for your boots, in which case: [[eu-shoes]]
