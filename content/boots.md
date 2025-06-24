@@ -9,7 +9,8 @@ Iconic. Classic gateway drug. More functional.
 - Offline Stores for try on.
 - Many Goodyear welted models (very gud repairability)
 - Very good leather (no vegan options)
-- Good price/performance  
+- Good price/performance
+- Needs break in  
 
 Recommended models: Iron Ranger, Blacksmith
 
@@ -39,6 +40,14 @@ Distinct look. Roomy toeboxes. Barefoot options. Functional.
 - Cuts costs where it doesnt really matter, uses high quality where it matters.
 - Generally more "anatomically good" lasts
 - Customizing. Nearly every part of a model can be customized, while it increases the price, its still relatively cheap.
+- Crazy good price/performance
+
+## Avoid These
+- Dr. Martens
+- Wolverine 1000 Miles
+- White's
+- Chippewa
+- Alden Indy  
 
 ## Not happy until now?
 Either you want something special in terms of look or have other requirements for your boots, in which case: [[eu-shoes]]
