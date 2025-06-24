@@ -2,4 +2,4 @@
 title: Corn Knowledge Database
 ---
 
-This is a very subjective pile of stuff that in my mind is worthy to share.
+This is a very subjective pile of stuff that in my mind is worthy to share without claim to completeness.

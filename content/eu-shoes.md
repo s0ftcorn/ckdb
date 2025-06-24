@@ -8,6 +8,8 @@ title: European Shoemakers and Sellers
   - Bundeswehr Boots ca. 2000
 - https://www.schuhmacherei-ingridneumann.com
   - Custom/Bespoke and Repairs
+- https://schuhbertl.com DE
+- https://www.steinkogler-bergschuh.at AT
 - Astorflex Italien
 - Bright Shoemakers Dänemark
 - Green Boots Portugal
