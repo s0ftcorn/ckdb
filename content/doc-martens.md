@@ -6,7 +6,7 @@ Jemand den du kennst möchte sich Dr. Martens kaufen?
 HALT! STOP!  
 1. Ist die gelbe Naht wichtig? Dann kannst du nichts machen und wir halten eine Schweigeminute.
 2. Sollen sie möglichst exakt so aussehen wie Dr. Martens? [solovair](https://nps-solovair.com)
-3. Handwerklich gut gemacht oder Design wichtiger? Jetzt wirds kompliziert. Klassische Springer? Arbeitsstiefel? Viel platz für die Zehen?
+3. Handwerklich gut gemacht oder Design wichtiger? Jetzt wirds kompliziert. Klassische Springer? Arbeitsstiefel? Viel platz für die Zehen? [[boots|Boots]]
 
 ## Nerdshit
 
