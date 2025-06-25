@@ -1,8 +1,7 @@
 ---
-title: OnlyFriends
-description: Services i offer to my friends
-enableToc: false
+{"publish":true,"title":"OnlyFriends","description":"Services i offer to my friends","cssclasses":""}
 ---
+
 This is a list of "services" i offer to my friends. This is mostly stuff i have fun doing, so you are my excuse to do it.
 
 ## Belts

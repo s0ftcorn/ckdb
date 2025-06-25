@@ -1,6 +1,7 @@
 ---
-title: European Shoemakers and Sellers
+{"publish":true,"title":"European Shoemakers and Sellers","cssclasses":""}
 ---
+
 
 - https://fredericcishoes.com
   - Historical/Reenactment

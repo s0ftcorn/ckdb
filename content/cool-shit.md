@@ -1,6 +1,7 @@
 ---
-title: Cool Shit
+{"publish":true,"title":"Cool Shit","cssclasses":""}
 ---
+
 A list of cool shit. Sometimes Free and Open Source (FOSS), sometimes not.
 
 ### Frank geht ran

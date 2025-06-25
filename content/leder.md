@@ -1,7 +1,7 @@
 ---
-title: Leder
-enableToc: true
+{"publish":true,"title":"Leder","enableToc":true,"cssclasses":""}
 ---
+
 Empfehlung: https://www.lederpedia.de/  
 
 ## Begriffe
@@ -22,12 +22,12 @@ Enthält das Leder die volle Narbenseite, ist es ein Narbenleder. Wird auch als 
 ### Glattleder
 Ist das selbe wie Narbenleder.
 ### Wildleder
-Ist *nicht* von Wild, umgangsprachlich Synonym für: [[leder#rauleder|Suède]], [[leder#rauleder|Rauleder]], [[leder#rauleder|velours]], selten [[leder#nubuk|nubuk]]
+Ist *nicht* von Wild, umgangsprachlich Synonym für: [[leder#rauleder\|Suède]], [[leder#rauleder\|Rauleder]], [[leder#rauleder\|velours]], selten [[leder#nubuk\|nubuk]]
 ### Rauleder
 Wird auch Suede oder Veloursleder genannt. Zu erkennen an loser Faserstruktur. Fährt man mit der Nagelruckseite über die Fasern, kann sich der Farbton ändern.  
-Narbenseite kann vorhanden sein, auf der "Innenseite" des Produkts. Oft handelt es sich aber um [[leder#spalt|Spaltleder]]. Qualität des Leders ohne beschädigung des Produktes schwer einzuschätzen. Mit Wachs lassen sich interessante Optiken erreichen.
+Narbenseite kann vorhanden sein, auf der "Innenseite" des Produkts. Oft handelt es sich aber um [[leder#spalt\|Spaltleder]]. Qualität des Leders ohne beschädigung des Produktes schwer einzuschätzen. Mit Wachs lassen sich interessante Optiken erreichen.
 ### Nubuk
-Auf der [[leder#narbenseite|Narbenseite]] angeschliffenes Leder. Fühlt sich oft samtig an, je nach Anschliff mehr oder weniger faserig. Hierdurch können Fehler im Leder, z.B. Bissspuren, beseitigt werden.  
+Auf der [[leder#narbenseite\|Narbenseite]] angeschliffenes Leder. Fühlt sich oft samtig an, je nach Anschliff mehr oder weniger faserig. Hierdurch können Fehler im Leder, z.B. Bissspuren, beseitigt werden.  
 Mit Wachs lassen sich auch hier interessante Optiken erreichen.
 ### Nappa
 Besonders weiches Glattleder.

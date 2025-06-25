@@ -1,6 +1,7 @@
 ---
-title: Boots
+{"publish":true,"title":"Boots","cssclasses":""}
 ---
+
 
 You want a good pair o' boots?  
 
@@ -25,7 +26,7 @@ Recommended models: Captain Classic, Heritage Captain, President Classic
 Note: Depending on exact model the welt might be made out of non-leather. Or not even welted.
 
 ### Solovair
-Iconic [[doc-martens|Doc Martens]] alternative. While looking a lot like a really tough boot, some compromisses are made for comfort and price.
+Iconic [[doc-martens\|Doc Martens]] alternative. While looking a lot like a really tough boot, some compromisses are made for comfort and price.
 - The only competetive priced Docs alternative
 - Plastic welt, still repairable.
 - Iconic look.

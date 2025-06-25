@@ -1,6 +1,7 @@
 ---
-title: Cobblers in Germany
+{"publish":true,"title":"Cobblers in Germany","cssclasses":""}
 ---
+
 
 Cobblers in germany
 
