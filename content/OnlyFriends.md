@@ -31,4 +31,20 @@ You want a handmade belt that will last for decades? Here is how this works:
     Sorry to all the lady-shaped bodies, i dont have enough knowledge about clothing sizes for you. Feel free to enlighten me!  
 
 ## Other small leather goods
-Wallets, cardholders, bags, harnesses, anything. Hit me up and lets try to create something unique! For most stuff i already got patterns.
+We dont like zippers. But maybe you need one nevertheless?  
+I've got a little collection of patterns, so the possibility is there that i already got a pattern for what you want. Etsy got a lot of patterns for a reasonable price. Keep in mind that depending on the leather used a pattern might not always work!  
+### Wallets
+Integrated coin purses are a challenge. A challenge i am willing to accept.  
+More than 6 cards (EC-Card, ISO/IEC 7810 ID-1) gonna make the wallet a thicc boi.  
+### Cardholders
+Depending on how many there are possibilities for smart "pull-out"-helpers.
+### Bags
+If you want a bag where an item has a dedicated place and should fit snuggly, i need either the item or a mockup-model.  
+### Harnesses
+Harnesses are way easier to make if i can take measurements of your body.  
+If that is, for whatever reason, not possible, we can work something out.  
+### Watch Straps
+Really helpful if you know the exact model of watch you want a strap for.  
+Otherwise some measurements, depending on strap style, are necessary.
+### Anything
+Hit me up and lets try to create something unique! 
