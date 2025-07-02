@@ -4,6 +4,8 @@
 
 A list of cool shit. Sometimes Free and Open Source (FOSS), sometimes not.
 
+### Your Body Your Choice
+https://www.selbstbestimmt-steril.de/
 ### Frank geht ran
 https://digitalcourage.de/frank-geht-ran  
 Frank geht Ran, wenn du es nicht willst. Gib Franks Nummer leuten, dennen du deine nicht geben willst :)
@@ -12,6 +14,8 @@ Frank geht Ran, wenn du es nicht willst. Gib Franks Nummer leuten, dennen du dei
 https://dramanumbers.org/
 When you need a official phone number but dont want to give your own.  
 
+### Screw Paywals legally
+https://stefanw.github.io/bibbot/
 ### Awesome Selfhosted
 A list of Free Software which can be hosted on your own server: https://github.com/awesome-selfhosted/awesome-selfhosted
 
