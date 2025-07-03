@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "null",
     },
     locale: "de-DE",
-    baseUrl: "s0ftcorn.github.io",
+    baseUrl: "abstellkammer.eu",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
