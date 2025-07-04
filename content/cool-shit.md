@@ -9,7 +9,6 @@ https://www.selbstbestimmt-steril.de/
 ### Frank geht ran
 https://digitalcourage.de/frank-geht-ran  
 Frank geht Ran, wenn du es nicht willst. Gib Franks Nummer leuten, dennen du deine nicht geben willst :)
-
 ### Drama Numbers
 https://dramanumbers.org/
 When you need a official phone number but dont want to give your own.  
@@ -18,7 +17,6 @@ When you need a official phone number but dont want to give your own.
 https://stefanw.github.io/bibbot/
 ### Awesome Selfhosted
 A list of Free Software which can be hosted on your own server: https://github.com/awesome-selfhosted/awesome-selfhosted
-
 ### languagetool
 Open Source Spell and Grammar Checker: https://languagetool.org/de
 
