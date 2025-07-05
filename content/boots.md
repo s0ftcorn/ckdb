@@ -43,10 +43,14 @@ Distinct look. Roomy toeboxes. Barefoot options. Functional.
 - Customizing. Nearly every part of a model can be customized, while it increases the price, its still relatively cheap.
 - Crazy good price/performance
 
+## Craft n Glory
+- https://www.craftnglory.com/
+- Further research needed
+- Import duties and taxes!
 ## Avoid These
 - Dr. Martens
 - Wolverine 1000 Miles
-- White's
+- White's (maybe)
 - Chippewa
 - Alden Indy  
 
