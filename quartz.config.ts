@@ -16,12 +16,12 @@ const config: QuartzConfig = {
       provider: "null",
     },
     locale: "de-DE",
-    baseUrl: "sub.change.me",
+    baseUrl: "abstellkammer.eu",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
