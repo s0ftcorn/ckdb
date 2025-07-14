@@ -9,14 +9,14 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Corn Knowledge Database",
-    pageTitleSuffix: "Very Subjective",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "null",
     },
     locale: "de-DE",
-    baseUrl: "sub.change.me",
+    baseUrl: "abstellkammer.eu",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

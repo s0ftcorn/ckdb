@@ -1,6 +1,7 @@
 ---
-title: European Shoemakers and Sellers
+{"publish":true,"title":"European Shoemakers and Sellers","cssclasses":""}
 ---
+
 
 - https://fredericcishoes.com
   - Historical/Reenactment
@@ -8,6 +9,8 @@ title: European Shoemakers and Sellers
   - Bundeswehr Boots ca. 2000
 - https://www.schuhmacherei-ingridneumann.com
   - Custom/Bespoke and Repairs
+- https://schuhbertl.com DE
+- https://www.steinkogler-bergschuh.at AT
 - Astorflex Italien
 - Bright Shoemakers Dänemark
 - Green Boots Portugal
@@ -27,3 +30,4 @@ title: European Shoemakers and Sellers
 - Meetmin ES(CN)
 - Carmina ES
 - La Vita Shoes DE
+- sandmanncraft.de 
