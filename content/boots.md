@@ -56,3 +56,20 @@ Distinct look. Roomy toeboxes. Barefoot options. Functional.
 
 ## Not happy until now?
 Either you want something special in terms of look or have other requirements for your boots, in which case: [[eu-shoes]]
+
+## Appendix
+Small details & niche knowledge.
+### Reinforced Toe Cap
+From just a stiffener to a true double layer toe cap.
+- Sometimes just decorative (no double leather layer)
+- Traditionally done with very stiff leather inserts, modern solutions are plastics (often cheaper, not necessarily worse) 
+- Stops the toe box from collapsing, causing rubbing spots.
+### Heel counter
+- If your boot doesnt fit your foot, you might experience a pressure point just above the stiff part of the heel. I currently dont know how to fix this, apart from some good ol' cushioning.
+- Stabilizes your foot, especially when the foot is pronating/supinating (aka the center of your foot is not in line with the center of your leg)
+
+### Shank
+- Not really needed for wedge soles
+- Highly recommended for any shoewear with a heel (looking at you [[doc-martens]])
+- Supports your foot, so the shoe doesnt collapse turning your foot into a U
+- Nice for shoveling or ladders.
