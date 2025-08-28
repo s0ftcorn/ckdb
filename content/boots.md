@@ -3,44 +3,44 @@
 ---
 
 
-You want a good pair o' boots?  
+Bock auf n gutes paar Stiefel?  
 
 ### Red Wing
-Iconic. Classic gateway drug. More functional.  
-- Offline Stores for try on.
-- Many Goodyear welted models (very gud repairability)
-- Very good leather (no vegan options)
+Iconic. Classic gateway drug. Eher functionales design.  
+- Offline Stores u.A. in Düsseldorf zum anprobieren
+- Viele Goodyear Rahmengenähte Modelle (sehr gud reparierbar)
+- Für den Preis absurd gutes Leder (keine veganen)
 - Good price/performance
-- Needs break in  
+- Muss eingelaufen werden
 
 Recommended models: Iron Ranger, Blacksmith
 
 ### Thursday
 More dressy.  
-- Difficult to get in the EU
+- Bissi schwierig inner EU zu bekommen mit import Steuern bla
 - Very good price/performance.
-- Not always welted. (repairability depends on model)
-- Bit thinner leather, some cushioning on the insole, less PITA to break in  
+- Nicht immer rahmengenäht. (reparierbarkeit hängt vom Modell ab)
+- ein wenig dünneres Leder, bisschen Dämpfung, leichter einzulaufen
 
 Recommended models: Captain Classic, Heritage Captain, President Classic  
-Note: Depending on exact model the welt might be made out of non-leather. Or not even welted.
+Note: Je nach Modell, ist der Rahmen nicht aus Leder oder der Schuh nicht rahmengenäht.
 
 ### Solovair
-Iconic [[doc-martens\|Doc Martens]] alternative. While looking a lot like a really tough boot, some compromisses are made for comfort and price.
+Iconic [[doc-martens\|Doc Martens]] alternative. Sieht nach nem richtig toughen Boot aus, ist aber zugunsten des Preises nicht sooo ganz der Fall.
 - The only competetive priced Docs alternative
-- Plastic welt, still repairable.
+- Plastikrahmen, aber reparierbar.
 - Iconic look.
-- If you cant withstand the break in period in these, dont even bother with traditional made boots.  
+- Du findest das Einlaufen hier schon schlimm? Traditionell gemachte Schuhe sind dann vielleicht weniger dein Ding.
 
 Recommended models: Black Greasy 8 Eye Derby Boot  
-Note: It seems like their quality is going downhill. Even more subjective view backed by some posts on reddit.
+Note: Einzelfallberichte sagen, dass auch hier die Qualität den Bach runter geht. Die Aussage ist aber noch subjektiver als diese Webseite lol
 
 ### Jim Green
-Distinct look. Roomy toeboxes. Barefoot options. Functional.
-- Stitchdown construction. Cheaper to make, still good repairability.
-- Cuts costs where it doesnt really matter, uses high quality where it matters.
-- Generally more "anatomically good" lasts
-- Customizing. Nearly every part of a model can be customized, while it increases the price, its still relatively cheap.
+Charakteristischer look. Weite Zehenbox. Barfußschuhe möglich. Funktional.
+- Stitchdown construction. Günstiger in der Herstellung, trotzdem gut reparierbar.
+- Sparen wo es möglich ist, nehmen gud shit wo es drauf ankommt.
+- Leisten die eher "anatomisch korrekt" sind
+- Customizing. Kannst legit jeden Teil eines Schuhs so haben wie dus willst. Kostet natürlich extra, aber ist dafür immernoch ein verdammt guter Preis.
 - Crazy good price/performance
 
 ## Craft n Glory
@@ -55,20 +55,20 @@ Distinct look. Roomy toeboxes. Barefoot options. Functional.
 - Alden Indy  
 
 ## Not happy until now?
-Either you want something special in terms of look or have other requirements for your boots, in which case: [[eu-shoes]]
+Dann hast du wahrscheinlich sehr konkrete Vorstellungen was den Look angeht oder andere Anforderungen. Gumma hier: [[eu-shoes]]
 
 ## Appendix
 Small details & niche knowledge.
-### Reinforced Toe Cap
+### Reinforced Toe Cap / Zehenverstärkung
 From just a stiffener to a true double layer toe cap.
 - Sometimes just decorative (no double leather layer)
 - Traditionally done with very stiff leather inserts, modern solutions are plastics (often cheaper, not necessarily worse) 
 - Stops the toe box from collapsing, causing rubbing spots.
-### Heel counter
+### Heel counter / Versenverstärkung
 - If your boot doesnt fit your foot, you might experience a pressure point just above the stiff part of the heel. I currently dont know how to fix this, apart from some good ol' cushioning.
 - Stabilizes your foot, especially when the foot is pronating/supinating (aka the center of your foot is not in line with the center of your leg)
 
-### Shank
+### Shank / Gelenkfeder
 - Not really needed for wedge soles
 - Highly recommended for any shoewear with a heel (looking at you [[doc-martens]])
 - Supports your foot, so the shoe doesnt collapse turning your foot into a U
