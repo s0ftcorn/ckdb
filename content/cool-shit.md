@@ -4,6 +4,11 @@
 
 A list of cool shit. Sometimes Free and Open Source (FOSS), sometimes not.
 
+### Doodle Alternative
+https://terminplaner6.dfn.de/
+### Activate Windows
+https://massgrave.dev/  
+Microsoft Lizenzen ist ein kompliziertes Thema, es gibt Möglichkeiten sich das Leben leichter zu  machen.
 ### Your Body Your Choice
 https://www.selbstbestimmt-steril.de/
 ### Frank geht ran
