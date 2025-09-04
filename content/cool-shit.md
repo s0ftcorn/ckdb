@@ -31,9 +31,6 @@ Open Source Software to generate bespoke sewing patterns: https://freesewing.eu/
 ### Uncensored DNS
 - Use DNSSEC.
 - [[uncensored-dns]]
-- https://dns.watch/
-- https://blog.uncensoreddns.org/dns-servers/
-- https://mullvad.net/de/help/dns-over-https-and-dns-over-tls
 
 ### Snowflake
 https://snowflake.torproject.org/  

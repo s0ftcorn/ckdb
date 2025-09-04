@@ -21,6 +21,8 @@ https://www.digitale-gesellschaft.ch/dns/
 - dns.digitale-gesellschaft.ch
 - IPv4: 185.95.218.42, 185.95.218.43
 - IPv6: 2a05:fc84::42, 2a05:fc84::43
+# opennic
+https://opennic.org/
 # Local DNS Caches
 Linux only.
 ## CoreDNS
