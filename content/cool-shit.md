@@ -4,6 +4,10 @@
 
 A list of cool shit. Sometimes Free and Open Source (FOSS), sometimes not.
 
+### Disable AI bullshit in Win11 for good
+https://borncity.com/blog/2025/02/03/copilot-per-gpo-abschalten/
+### Customize Windows Install
+https://schneegans.de/windows/unattend-generator/
 ### Doodle Alternative
 https://terminplaner6.dfn.de/
 ### Activate Windows
