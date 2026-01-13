@@ -4,12 +4,20 @@
 
 A list of cool shit. Sometimes Free and Open Source (FOSS), sometimes not.
 
+### Disable AI bullshit in Win11 for good
+https://borncity.com/blog/2025/02/03/copilot-per-gpo-abschalten/
+### Customize Windows Install
+https://schneegans.de/windows/unattend-generator/
+### Doodle Alternative
+https://terminplaner6.dfn.de/
+### Activate Windows
+https://massgrave.dev/  
+Microsoft Lizenzen ist ein kompliziertes Thema, es gibt Möglichkeiten sich das Leben leichter zu  machen.
 ### Your Body Your Choice
 https://www.selbstbestimmt-steril.de/
 ### Frank geht ran
 https://digitalcourage.de/frank-geht-ran  
 Frank geht Ran, wenn du es nicht willst. Gib Franks Nummer leuten, dennen du deine nicht geben willst :)
-
 ### Drama Numbers
 https://dramanumbers.org/
 When you need a official phone number but dont want to give your own.  
@@ -18,7 +26,6 @@ When you need a official phone number but dont want to give your own.
 https://stefanw.github.io/bibbot/
 ### Awesome Selfhosted
 A list of Free Software which can be hosted on your own server: https://github.com/awesome-selfhosted/awesome-selfhosted
-
 ### languagetool
 Open Source Spell and Grammar Checker: https://languagetool.org/de
 
@@ -27,9 +34,7 @@ Open Source Software to generate bespoke sewing patterns: https://freesewing.eu/
 
 ### Uncensored DNS
 - Use DNSSEC.
-- https://dns.watch/
-- https://blog.uncensoreddns.org/dns-servers/
-- https://mullvad.net/de/help/dns-over-https-and-dns-over-tls
+- [[uncensored-dns]]
 
 ### Snowflake
 https://snowflake.torproject.org/  

@@ -1,9 +1,8 @@
 ---
-{"publish":true,"title":"Cobblers in Germany","cssclasses":""}
+{"publish":true,"title":"Schuhmenschen in DE","cssclasses":""}
 ---
 
-
-Cobblers in germany
+Coole Schuster/Schuhmachher in DE
 
 - Corn Cool Certificate: [Claudia Drittler](https://dieschuhmacherei.de/) Essen, NRW
 - [Draufgänger](https://draufgaenger.online/) Köln, NRW

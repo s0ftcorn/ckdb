@@ -8,3 +8,4 @@ Belly/Bauch
 Croupon
 Hals
 Hecht/Flanke
+Schulter: Midsole
