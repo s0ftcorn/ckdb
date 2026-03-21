@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Boots","cssclasses":""}
+publish: true
+title: Boots
+created: 2025-06-25T23:30:30.182+02:00
+modified: 2025-08-28T13:08:36.252+02:00
+cssclasses: ""
 ---
 
 

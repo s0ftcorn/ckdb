@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"DNS ohne Zensur","cssclasses":""}
+publish: true
+title: DNS ohne Zensur
+created: 2025-09-04T18:46:15.747+02:00
+modified: 2025-09-04T19:01:54.904+02:00
+cssclasses: ""
 ---
 
 # digitalcourage.de

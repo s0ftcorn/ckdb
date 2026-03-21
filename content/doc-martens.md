@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Dr. Martens","cssclasses":""}
+publish: true
+title: Dr. Martens
+created: 2025-06-26T09:11:33.788+02:00
+modified: 2025-06-25T23:32:10.065+02:00
+cssclasses: ""
 ---
 
 

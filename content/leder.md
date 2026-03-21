@@ -1,5 +1,10 @@
 ---
-{"publish":true,"title":"Leder","enableToc":true,"cssclasses":""}
+publish: true
+title: Leder
+enableToc: true
+created: 2025-06-26T09:11:33.791+02:00
+modified: 2025-06-25T23:32:23.918+02:00
+cssclasses: ""
 ---
 
 Empfehlung: https://www.lederpedia.de/  

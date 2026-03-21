@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Schuhmenschen in DE","cssclasses":""}
+publish: true
+title: Schuhmenschen in DE
+created: 2025-06-26T09:11:33.785+02:00
+modified: 2025-08-28T12:56:41.613+02:00
+cssclasses: ""
 ---
 
 Coole Schuster/Schuhmachher in DE

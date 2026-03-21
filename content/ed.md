@@ -2,40 +2,39 @@
 publish: true
 title: Elite Dangerous
 created: 2026-03-06T00:51:02.715+01:00
-modified: 2026-03-21T11:26:51.374+01:00
+modified: 2026-03-21T11:41:20.047+01:00
 cssclasses: ""
 ---
 
 # Wing Mining Mission
-Any system that is not extraction/refinery
-Berdrantite, Galite, Cobalt, Gold, Silver, Coltan
-[more details](https://pilotstradenetwork.com/guides/wing-mining-missions/)
+- Any system that is not extraction/refinery
+- Berdrantite, Galite, Cobalt, Gold, Silver, Coltan
+- [more details](https://pilotstradenetwork.com/guides/wing-mining-missions/)
 # Alternative Keybinds
-Arguebly better
-https://docs.google.com/document/d/1srVncr286dIEJL_B3LVUJQbgy5nIBRkssin9nJiRvoU
+[Arguebly better](https://docs.google.com/document/d/1srVncr286dIEJL_B3LVUJQbgy5nIBRkssin9nJiRvoU)
 # Resources
-[edsy](https://edsy.org/) Build ships and get lost in theorycrafting
-[coriolis](https://coriolis.io/) Same as above only different
-[inara](https://inara.cz) For finding stuff in populated Space (aka the Bubble) and [Tech Broker Stuff](https://inara.cz/elite/techbroker/) and much much more
-[edsm](https://www.edsm.net/)
-[ED Astro](https://edastro.com/)
-[spansh](https://spansh.co.uk/plotter) Road to Riches (exobiology), Route Planners
-[edtools](https://edtools.cc/) *The* toolbox for mining and bounty hunting res sites
-[meritminer](https://meritminer.cc/) Basically miners tool for farming powerplay merits
-[Anti-Xeno Wiki](https://wiki.antixenoinitiative.com/en/home) Wanna kill burn the heretic, kill the mutant and purge the unclean? Learn how here.
-[PvE Combat Wiki](https://sites.google.com/view/ed-pve-combat/overview)
+- [edsy](https://edsy.org/) Build ships and get lost in theorycrafting
+- [coriolis](https://coriolis.io/) Same as above only different
+- [inara](https://inara.cz) For finding stuff in populated Space (aka the Bubble) and [Tech Broker Stuff](https://inara.cz/elite/techbroker/) and much much more
+- [edsm](https://www.edsm.net/)
+- [ED Astro](https://edastro.com/)
+- [spansh](https://spansh.co.uk/plotter) Road to Riches (exobiology), Route Planners
+- [edtools](https://edtools.cc/) *The* toolbox for mining and bounty hunting res sites
+- [meritminer](https://meritminer.cc/) Basically miners tool for farming powerplay merits
+- [Anti-Xeno Wiki](https://wiki.antixenoinitiative.com/en/home) Wanna kill burn the heretic, kill the mutant and purge the unclean? Learn how here.
+- [PvE Combat Wiki](https://sites.google.com/view/ed-pve-combat/overview)
 # Engineering
 ## Permits needed
-Faction Permits
-  Liz Ryder - Eurybia Blue Mafia
-  Mel Brandon - Colonia Council
-  Zacariah Nemo - Party of Yoru
-  Marco Qwent - Sirius Corporation
-  Bill Turner - Alioth Independents
-Other Permits
-  Tiana Fortune - Rank 4 (Squire) Imperial Navy
-  Lori Jameson - Any elite rank (Shinrarta Dezhra Permit)
-  Colonel Bris Dekker - Rank 4 (Petty Officer) Federal Navy
+- Faction Permits
+  - Liz Ryder - Eurybia Blue Mafia
+  - Mel Brandon - Colonia Council
+  - Zacariah Nemo - Party of Yoru
+  - Marco Qwent - Sirius Corporation
+  - Bill Turner - Alioth Independents
+- Other Permits
+  - Tiana Fortune - Rank 4 (Squire) Imperial Navy
+  - Lori Jameson - Any elite rank (Shinrarta Dezhra Permit)
+  - Colonel Bris Dekker - Rank 4 (Petty Officer) Federal Navy
 ## Material
 ### Raw
 

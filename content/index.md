@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Corn Knowledge Database","cssclasses":""}
+publish: true
+title: Corn Knowledge Database
+created: 2025-06-26T09:11:33.790+02:00
+modified: 2025-06-25T23:38:44.338+02:00
+cssclasses: ""
 ---
 
 

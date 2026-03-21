@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"How to Streichen","cssclasses":""}
+publish: true
+title: How to Streichen
+created: 2025-11-13T21:07:04.492+01:00
+modified: 2025-11-13T21:08:24.506+01:00
+cssclasses: ""
 ---
 
 - Wir wollen die vorhandene Farbe möglichst gut **verteilen**.🎨🖌️

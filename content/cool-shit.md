@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Cool Shit","cssclasses":""}
+publish: true
+title: Cool Shit
+created: 2025-06-25T23:30:30.184+02:00
+modified: 2026-01-11T20:54:34.196+01:00
+cssclasses: ""
 ---
 
 A list of cool shit. Sometimes Free and Open Source (FOSS), sometimes not.

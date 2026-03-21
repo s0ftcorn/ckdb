@@ -1,5 +1,10 @@
 ---
-{"publish":true,"title":"OnlyFriends","description":"Services i offer to my friends","cssclasses":""}
+publish: true
+title: OnlyFriends
+description: Services i offer to my friends
+created: 2025-06-26T09:11:33.793+02:00
+modified: 2025-06-26T14:13:03.383+02:00
+cssclasses: ""
 ---
 
 This is a list of "services" i offer to my friends. This is mostly stuff i have fun doing, so you are my excuse to do it.

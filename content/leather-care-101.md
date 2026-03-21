@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Leather Care 101","cssclasses":""}
+publish: true
+title: Leather Care 101
+created: 2025-07-03T01:04:50.016+02:00
+modified: 2025-08-18T19:24:29.756+02:00
+cssclasses: ""
 ---
 
 ## WORK IN PROGRESS
